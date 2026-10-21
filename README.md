@@ -207,10 +207,6 @@ Infrastructure as Code (Terraform)
 
 Oviesa Oboh
 
-Software Engineer | Robotics Software | Cloud Infrastructure
-
-GitHub: (add link)
-
 ## License
 
 This project is licensed under the MIT License.
